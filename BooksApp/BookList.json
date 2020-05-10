@@ -19,7 +19,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/To_Kill_a_Mockingbird.jpeg",
       "first_published": 1960,
       "score": 4.27,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_HISTORICAL_FICTION", "GENRE_ACADEMIC_SCHOOL"]
     },
     {
       "bookId": 3,
@@ -30,7 +30,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/the_great_gatsby.jpeg",
       "first_published": 1925,
       "score": 3.91,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_HISTORICAL_FICTION", "GENRE_LITERATURE"]
     },
     {
       "bookId": 4,
@@ -41,7 +41,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/in_search_of_lost_time.jpg",
       "first_published": 1913,
       "score": 4.14,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_FRANCE", "GENRE_LITERATURE", "GENRE_LITERATURE_FRENCH", "GENRE_PHILOSOPHY"]
     },
     {
       "bookId": 5,
@@ -52,7 +52,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/don_quixote.jpeg",
       "first_published": 1615,
       "score": 3.87,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_LITERATURE", "GENRE_ACADEMIC_SCHOOL", "GENRE_LITERATURE_SPANISH", "GENRE_ADVENTURE", "GENRE_NOVELS"]
     },
     {
       "bookId": 6,
@@ -63,7 +63,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/ulysses.jpg",
       "first_published": 1922,
       "score": 3.73,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_LITERATURE", "GENRE_NOVELS"]
     },
     {
       "bookId": 7,
@@ -74,7 +74,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/moby_dick.jpg",
       "first_published": 1851,
       "score": 3.49,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_LITERATURE", "GENRE_ADVENTURE"]
     },
     {
       "bookId": 8,
@@ -85,7 +85,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/hamlet.jpg",
       "first_published": 1603,
       "score": 4.02,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_PLAYS", "GENRE_FICTION", "GENRE_DRAMA"]
     },
     {
       "bookId": 9,
@@ -96,7 +96,7 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/war_and_peace.jpeg",
       "first_published": 1867,
       "score": 4.11,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_HISTORICAL_FICTION", "GENRE_CULTURAL_RUSSIA"]
     },
     {
       "bookId": 10,
@@ -107,6 +107,6 @@
       "image": "https://raw.githubusercontent.com/maruiz81/service-example/develop/BooksApp/books_images/the_odyssey.jpg",
       "first_published": -700,
       "score": 3.76,
-      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_CULTURAL_RUSSIA", "GENRE_ROMANCE"]
+      "genres": ["GENRE_CLASSICS", "GENRE_FICTION", "GENRE_POETRY", "GENRE_FANTASY_MYTHOLOGY"]
     }
   ]
