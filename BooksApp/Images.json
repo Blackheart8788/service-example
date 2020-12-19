@@ -13,7 +13,7 @@
     },
     {
       "bookId": 4,
-      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/art04.jpg"
+      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/art04.png"
     },
     {
       "bookId": 5,
@@ -29,7 +29,7 @@
     },
     {
       "bookId": 8,
-      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/food03.jpg"
+      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/food03.jpeg"
     },
     {
       "bookId": 9,
@@ -53,10 +53,10 @@
     },
     {
       "bookId": 14,
-      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/game04.jpg"
+      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/game04.png"
     },
     {
       "bookId": 15,
-      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/game05.jpg"
+      "image": "https://raw.githubusercontent.com/Blackheart8788/service-example/develop/BooksApp/ImagesList/game05.jpeg"
     }
   ]
